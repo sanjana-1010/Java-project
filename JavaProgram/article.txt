@@ -1,0 +1,3 @@
+Java is a programming language.
+Java is used for application development.
+Learning Java is easy.
