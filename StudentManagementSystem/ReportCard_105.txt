@@ -1,0 +1,14 @@
+========== STUDENT REPORT CARD ==========
+Student ID: 105
+Student Name: Kiran
+Email: kiran@gmail.com
+Status: ACTIVE
+Course ID: 502
+Course Name: Python Programming
+Course Duration: 4 months
+Marks: 35.0/100
+Grade: F
+Performance: Academic Support Required
+Attendance: 70%
+Attendance Eligibility: Not Eligible
+=========================================

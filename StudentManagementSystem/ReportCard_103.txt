@@ -1,0 +1,14 @@
+========== STUDENT REPORT CARD ==========
+Student ID: 103
+Student Name: Arjun
+Email: arjun@gmail.com
+Status: ACTIVE
+Course ID: 502
+Course Name: Python Programming
+Course Duration: 4 months
+Marks: 65.0/100
+Grade: C
+Performance: Good
+Attendance: 61%
+Attendance Eligibility: Not Eligible
+=========================================

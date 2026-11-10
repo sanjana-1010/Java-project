@@ -1,0 +1,14 @@
+========== STUDENT REPORT CARD ==========
+Student ID: 101
+Student Name: Rahul
+Email: rahul@gmail.com
+Status: ACTIVE
+Course ID: 501
+Course Name: Java Full Stack
+Course Duration: 6 months
+Marks: 95.0/100
+Grade: A+
+Performance: Outstanding
+Attendance: 92%
+Attendance Eligibility: Eligible
+=========================================

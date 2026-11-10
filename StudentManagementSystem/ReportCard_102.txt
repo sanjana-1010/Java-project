@@ -1,0 +1,14 @@
+========== STUDENT REPORT CARD ==========
+Student ID: 102
+Student Name: Priya
+Email: priya@gmail.com
+Status: ACTIVE
+Course ID: 501
+Course Name: Java Full Stack
+Course Duration: 6 months
+Marks: 91.0/100
+Grade: A+
+Performance: Outstanding
+Attendance: 85%
+Attendance Eligibility: Eligible
+=========================================

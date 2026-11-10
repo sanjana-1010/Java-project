@@ -1,0 +1,14 @@
+========== STUDENT REPORT CARD ==========
+Student ID: 104
+Student Name: Ananya
+Email: ananya@gmail.com
+Status: COMPLETED
+Course ID: 503
+Course Name: Data Science
+Course Duration: 8 months
+Marks: 87.0/100
+Grade: A
+Performance: Excellent
+Attendance: 95%
+Attendance Eligibility: Eligible
+=========================================
